@@ -5,8 +5,6 @@ Short application that generates a new Chuck Norris joke at the click of a butto
 
 ![Alt text](/assets/images/homepage.PNG?raw=true "Screenshot")  
 
-https://esotericz.github.io/norris/
-
 ## Table of Contents
 - [Installation](#Installation)
 - [Requirements](#Requirements)
