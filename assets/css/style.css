@@ -1,0 +1,30 @@
+body {
+    height: 100%;
+    background-color: #D3D3D3;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 150px;
+}
+
+img {
+    height: 350px;
+}
+
+p {
+    margin-top: 25px;
+    font-size: 18px;
+    max-width: 750px;
+    text-align: center;
+    height: 50px;
+}
+
+button {
+    width: 125px;
+    height: 30px;
+    text-align: center;
+    font-size: 14px;
+}

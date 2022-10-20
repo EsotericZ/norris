@@ -5,6 +5,8 @@ const Quote = require('./assets/Quote');
 const app = express();
 const PORT = process.env.PORT || 3001;
 
+app.use(express.static('assets'));
+
 app.get('/', async (req, res) => {
     try {
         const response = await axios.get('https://api.chucknorris.io/jokes/random');
